@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvfb-plot.a CMakeFiles/vfb-plot.dir/vfb-plot.cpp.o
+/usr/bin/ranlib libvfb-plot.a
